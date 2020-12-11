@@ -1,2 +1,4 @@
 # AndroidCoffeeShopApp
 LCS, Inc. Coffee Shop End to End Android Application
+
+  I created an Android application for a fictional coffee shop used all of the skills I had previously learned in the program and more. The programming language I used for this app was Java along with xml for the design of the application pages. I learned how to implement Facebook login for this app, as well as connect it to a Google Firebase database for user authentication and to retrieve images for the items on the menu. This app also has a create account feature (integrated with Firebase), along with animations, full menu ordering system, and simulated order fulfillment. This project fully illustrates my modular programming abilities along with practical knowledge of how to connect to cloud applications to ensure full application functionality.
