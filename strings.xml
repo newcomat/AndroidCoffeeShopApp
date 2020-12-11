@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LCS, Inc.</string>
+    <string name="slogan">Your favorite local coffee shop</string>
+    <string name="invalid_name">Please Enter Valid Item Name</string>
+    <string name="invalid_description">Please Enter a Valid Item Description</string>
+    <string name="invalid_size">Please Enter a Valid Size</string>
+    <string name="invalid_notes">Please Enter a Valid Note</string>
+    <string name="facebook_app_id">2811780015578881</string>
+    <string name="fb_login_protocol_scheme">fb2811780015578881</string>
+    <string name="google_maps_key">AIzaSyAbvo1UvM3JZroiYUnKukNy725Z_9gBaRw</string>
+    <string name="applogo">LCS, Inc.</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Other</item>
+
+    </string-array>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+</resources>
